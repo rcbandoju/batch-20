@@ -1,6 +1,6 @@
 #incldue<stdio.h>
 #include<conio.h>
-
+{
 main();
 int a,b,c;
 a=10;
