@@ -3,9 +3,9 @@
 
 main();
 int a,b,c;
-a=10;
-b=20;
-c=a+b;
+c=20;
+d=40;
+e=c+d;
 printf("addition of two numbers = %d",c);
 getche();
 }
