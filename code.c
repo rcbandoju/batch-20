@@ -3,7 +3,7 @@
 {
 main();
 int a,b,c;
-c=20;
+c=10;
 d=40;
 e=c+d;
 printf("addition of two numbers = %d",c);
