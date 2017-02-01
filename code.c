@@ -6,6 +6,7 @@ int a,b,c;
 c=10;
 d=40;
 e=c+d;
-printf("addition of two numbers = %d",c);
+
+printf("RESULT = %d",c);
 getche();
 }
