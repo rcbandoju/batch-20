@@ -1,4 +1,4 @@
-#incldue<stdio.h>
+incldue<stdio.h>
 #include<conio.h>
 #include<dos.h>
 {
@@ -21,3 +21,6 @@ printf("addition of two numbers = %d",c);
 
 getche();
 }
+
+
+
