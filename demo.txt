@@ -1,8 +1,2 @@
-hello world
+hello 
 
-my name is sandy
-
-
-a=b+c+d
-
-merge conflict
