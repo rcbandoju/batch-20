@@ -13,6 +13,6 @@ e=a*b;
 
 f=a+b+c;
 
-printf("RESULT = %d",c);
+printf("RESULT = %d",d);
 getche();
 }
