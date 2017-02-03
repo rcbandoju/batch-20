@@ -12,7 +12,7 @@ e=a*b;
 
 f=a+b+c;
 
-printf("RESULT = %d",c);
+printf("Final RESULT = %d",c);
 g=a/b;
 
 printf("addition of two numbers = %d, %d",c,e);
