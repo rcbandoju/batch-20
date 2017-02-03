@@ -7,6 +7,6 @@ c=10;
 d=40;
 e=c+d;
 g=a/b;
-printf("addition of two numbers = %d",c);
+printf("addition of two numbers = %d, %d",c,e);
 getche();
 }
