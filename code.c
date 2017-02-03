@@ -1,6 +1,7 @@
 #incldue<stdio.h>
 #include<conio.h>
 #include<dos.h>
+#include<graph.h>
 {
 main();
 int a,b,c;
