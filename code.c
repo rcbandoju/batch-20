@@ -10,6 +10,3 @@ e=c+d;
 printf("RESULT = %d",c);
 getche();
 }
-highvideo
-
-hwo yu
