@@ -13,5 +13,8 @@ e=a*b;
 f=a+b+c;
 
 printf("RESULT = %d",c);
+g=a/b;
+printf("addition of two numbers = %d",c);
+
 getche();
 }
