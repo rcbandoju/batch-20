@@ -6,10 +6,13 @@ main();
 int a,b,c,e,f;
 c=10;
 d=50;
+e=60;
 e=c+d;
 d=a-b;
 e=a*b;
-f=e+c+d
+f=e+c+d;
+d=a+b;
+f=a+b+c+d
 
 f=a+b+c;
 
