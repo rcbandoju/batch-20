@@ -3,12 +3,13 @@
 #include<dos.h>
 {
 main();
-int a,b,c;
+int a,b,c,e,f;
 c=10;
 d=50;
 e=c+d;
 d=a-b;
 e=a*b;
+f=e+c+d
 
 f=a+b+c;
 
