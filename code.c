@@ -12,7 +12,7 @@ d=a-b;
 e=a*b;
 f=e+c+d;
 d=a+b;
-f=a+b+c+d
+d=a-b;
 
 f=a+b+c;
 
