@@ -10,7 +10,7 @@ e=c+d;
 d=a-b;
 e=a*b;
 f=e+c+d
-
+g=a+b; 
 f=a+b+c;
 
 printf("Final RESULT = %d",c);
