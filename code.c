@@ -13,6 +13,7 @@ f=e+c+d
 g=a+b; 
 f=a+b+c;
 
+print (" stash example -1 ";
 printf("Final RESULT = %d",c);
 g=a/b;
 
