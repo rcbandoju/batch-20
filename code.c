@@ -16,7 +16,10 @@ d=a+b;
 d=a-b;
 
 f=a+b+c;
+<<<<<<< Updated upstream
 g=a+b:
+=======
+>>>>>>> Stashed changes
 printf("new task added");
 printf(" stash example -1");
 
