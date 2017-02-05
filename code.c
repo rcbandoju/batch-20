@@ -19,8 +19,12 @@ d=a-b;
 f=e+c+d
 g=a+b; 
  f38c5814d5a22593c1d010ecf373f9d0231f36bd
-f=a+b+c;
+f=a+b+c
+ Updated upstream
 Updated upstream
+g=a+b:
+ Stashed changes
+
 g=a+b:
  Stashed changes
 printf("new task added");
