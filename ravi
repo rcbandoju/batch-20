@@ -3,7 +3,10 @@ resolving merge conlicts
 hello world
 resolving merge conflict
 a+B skfslf sfskfl
+<<<<<<< HEAD
 27ca82066b51ea6609620d2276f70df90842b13c
+=======
+>>>>>>> 27ca820... change for cherry-pick
 resolving merge conflicts
 
 
