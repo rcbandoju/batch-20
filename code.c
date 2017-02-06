@@ -37,6 +37,7 @@ g=a/b;
 
 printf("addition of two numbers = %d, %d",c,e);
 
+
 printf("addition of two numbers = %d",c);
 
 getche();
