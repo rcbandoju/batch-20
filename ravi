@@ -1,8 +1,17 @@
 test
+resolving merge conlicts
+hello world
 resolving merge conflict
 a+B skfslf sfskfl
+<<<<<<< HEAD
 resolving merge conflicts
 
 
 
 new line added by sudhakar
+=======
+27ca82066b51ea6609620d2276f70df90842b13c
+resolving merge conflicts
+
+
+>>>>>>> f869e5caaa402b5d0c74d13919a5efc468fe1348
