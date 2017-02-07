@@ -31,7 +31,11 @@ g=a+b:
  Stashed changes
 printf("new task added");
 printf(" stash example -1");
+<<<<<<< HEAD
 >>>>>>> f869e5caaa402b5d0c74d13919a5efc468fe1348
+=======
+>>>>>>> 53b81b9b0bcaf8538a412302749fe1f39a84498c
+>>>>>>> edfd1ce5e1367d3cdff519a9da20086b97794b04
 
 
 print (" stash example -1 ";
